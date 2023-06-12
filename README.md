@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
