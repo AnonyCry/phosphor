@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
